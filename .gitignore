@@ -72,7 +72,6 @@ Backup of *.doc*
 *GeneratedLocalRepo
 *GeneratedLocalRepo.meta
 *GeneratedLocalRepo/*
-*.vscode*
 UserSettings/EditorUserSettings.asset
 .idea/.idea.osy-unity/.idea/encodings.xml
 .idea/.idea.osy-unity/.idea/indexLayout.xml
